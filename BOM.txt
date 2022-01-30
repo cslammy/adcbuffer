@@ -1,0 +1,28 @@
+
+Part     Value       Device           Package            Description                                       DATA_SHEET                                                            
+                                                                                                        
+C1       .1uF        C-US025-025X050  C025-025X050       CAPACITOR, American symbol                                                                                              
+C2       .1uF        C-US025-025X050  C025-025X050       CAPACITOR, American symbol                                                                                              
+D1       zener       ZENER.2          DO41-2             5V zener diode                                                                                                                        
+                                                                                                        
+IC3      TL082P      TL082P           DIL08              OP AMP                                             Data sheet 
+                                                                                                        
+INPUT                THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                
+LEVEL    100K audio  9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style                                                                       
+                                                                                                      
+OFFSET   100K linear 9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style                                                                       
+OFFSETIN             THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                                                                                
+                                                                                                        
+R1       100K        R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R2       47K         R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R3       100K        R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R4       100K        R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R5       100K        R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R6       100K        R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R7       100K        R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R8       1K          R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R9       1K          R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R10      100K        R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R11      1K          R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+R12      1K          R-US_0204/7      0204/7             RESISTOR, American symbol                                                                                               
+                                                                                                   
